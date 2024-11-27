@@ -10,8 +10,12 @@ This assignment consists of two deliverables:
 Data Engineering: 
     MongoDB
     PyMongo
-    NoSQL_setup_starter.ipynb
-    NoSQL_analysis_starter.ipynb
+    NoSQL_setup_starter.ipynb 
+        NOTE: When file is ran in GitHub an "Unable to render code block" message is recieved. 
+              File has to be open in nbViewer.
+                1. Goto nbviewer site at https://nbviewer.org
+                2. Enter the following: https://github.com/HeliosRider/nosql-challenge/blob/main/NoSQL_setup_starter.ipynb. Select the Go! option.
+    NoSQL_analysis_starter.ipynb 
     establishments.json file
 
 Data Analysis Requirements:
