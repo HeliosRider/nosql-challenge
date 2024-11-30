@@ -6,7 +6,6 @@ This assignment consists of two deliverables:
     Deliverable 2: Updating the Database
     Deliverable 3: Exploratory Analysis
 
-
 Data Engineering: 
     MongoDB
     PyMongo
